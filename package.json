@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-play-default-sounds",
+  "version": "1.0.0",
+  "description": "Cordova Plugin to Play default Sounds",
+  "cordova": {
+    "id": "cordova-plugin-play-default-sounds",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansKrywaa/cordova-plugin-play-default-sound.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "ionic",
+    "default",
+    "custom",
+    "system",
+    "sound"
+  ],
+  "author": "HansKrywaa",
+  "license": "MIT",
+  "main": "./src/ionic/index.js",
+  "types": "./src/ionic/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/HansKrywaa/cordova-plugin-play-default-sound/issues"
+  },
+  "homepage": "https://github.com/HansKrywaa/cordova-plugin-play-default-sound#readme"
+}

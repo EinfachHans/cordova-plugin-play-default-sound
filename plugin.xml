@@ -7,12 +7,12 @@
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="PlayDefaultSounds">
-                <param name="android-package" value="de.hanskrywaa.PlayDefaultSounds"/>
+                <param name="android-package" value="de.einfachhans.PlayDefaultSounds.PlayDefaultSounds"/>
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml"/>
         <source-file src="src/android/PlayDefaultSounds.java"
-                     target-dir="src/de/hanskrywaa/PlayDefaultSounds"/>
+                     target-dir="src/de/einfachhans/PlayDefaultSounds"/>
     </platform>
     <platform name="ios">
         <config-file parent="/*" target="config.xml">

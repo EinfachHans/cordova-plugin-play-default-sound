@@ -32,4 +32,4 @@ PlayDefaultSounds.play(1003);
 ``` 
 
 ## Troubles?
-If you have any Problems or need help, feel free to [open an Issue](https://github.com/HansKrywaa/cordova-plugin-play-default-sound/issues)!
+If you have any Problems or need help, feel free to [open an Issue](https://github.com/EinfachHans/cordova-plugin-play-default-sound/issues)!

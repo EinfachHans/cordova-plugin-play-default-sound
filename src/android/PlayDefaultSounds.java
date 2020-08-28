@@ -1,4 +1,4 @@
-package de.hanskrywaa;
+package de.einfachhans.PlayDefaultSounds;
 
 import android.media.Ringtone;
 import android.media.RingtoneManager;

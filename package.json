@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HansKrywaa/cordova-plugin-play-default-sound.git"
+    "url": "git+https://github.com/EinfachHans/cordova-plugin-play-default-sound.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -23,12 +23,12 @@
     "system",
     "sound"
   ],
-  "author": "HansKrywaa",
+  "author": "EinfachHans",
   "license": "MIT",
   "main": "./src/ionic/index.js",
   "types": "./src/ionic/index.d.ts",
   "bugs": {
-    "url": "https://github.com/HansKrywaa/cordova-plugin-play-default-sound/issues"
+    "url": "https://github.com/EinfachHans/cordova-plugin-play-default-sound/issues"
   },
-  "homepage": "https://github.com/HansKrywaa/cordova-plugin-play-default-sound#readme"
+  "homepage": "https://github.com/EinfachHans/cordova-plugin-play-default-sound#readme"
 }

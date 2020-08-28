@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-play-default-sounds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cordova Plugin to Play default Sounds",
   "cordova": {
     "id": "cordova-plugin-play-default-sounds",
